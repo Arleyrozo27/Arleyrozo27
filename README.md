@@ -13,8 +13,8 @@
 
 ### 📲 Contacto
 
-- 📞 3133051846
-- 📧 rozorodriguezarleygustavo@gmail.com
+- 📞 +57 314 3282345
+- 📧 arleyrodriguez280@gmail.com
 
 ---
 
