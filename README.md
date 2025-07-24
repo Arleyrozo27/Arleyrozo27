@@ -33,12 +33,10 @@ Complementando mis estudios con formación técnica especializada en programaci�
 
 -----
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-![Arley's GitHub Stats](https://github.com/Arleyrozo27)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
-
-> ✨ Reemplaza `Arleyrozo27` con tu nombre de usuario real en GitHub para que funcione correctamente.
+![Arley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arleyrozo27&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arleyrozo27&layout=compact&theme=radical)
 
 -----
 
