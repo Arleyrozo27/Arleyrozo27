@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Arley 👨‍💻
+# 👋 ¡Hola! Soy Arley Gustavo Rozo Rodriguez👨‍💻
 
 Soy un **estudiante de Desarrollo de Software** apasionado por la tecnología, el aprendizaje continuo y la creación de soluciones útiles. Actualmente estoy en formación en **dos instituciones distintas**, lo que me ha permitido fortalecer mi base en programación, bases de datos, diseño web y más.
 
@@ -9,8 +9,7 @@ Soy un **estudiante de Desarrollo de Software** apasionado por la tecnología, e
 🎓 **Campuslands**  
 Estudiante activo en el programa de Desarrollo de Software, con enfoque en proyectos prácticos, trabajo en equipo y habilidades blandas.
 
-🎓 **[Nombre de la segunda institución]**  
-(Especifica aquí el nombre si deseas, por ejemplo: Servicio Nacional de Aprendizaje - SENA)  
+🎓 **Inprosistemas**   
 Complementando mis estudios con formación técnica especializada en programación, bases de datos y desarrollo web.
 
 -----
@@ -39,7 +38,7 @@ Complementando mis estudios con formación técnica especializada en programaci�
 ![Arley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
 
-> ✨ Reemplaza `tu-usuario` con tu nombre de usuario real en GitHub para que funcione correctamente.
+> ✨ Reemplaza `Arleyrozo27` con tu nombre de usuario real en GitHub para que funcione correctamente.
 
 -----
 
