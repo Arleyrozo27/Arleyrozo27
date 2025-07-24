@@ -44,9 +44,9 @@ Complementando mis estudios con formación técnica especializada en programaci�
 
 Puedes escribirme por correo o encontrarme en mis redes sociales:
 
-- ✉️ [arleyrodriguez280@gmail.com]
+- ✉️ [Mi Correo](arleyrodriguez280@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/estudiante-backen-arley-rozo)
-- 🌐 [Portafolio personal]([https://tuportafolio.com](https://jocular-pie-06b1ac.netlify.app)
+- 🌐 [Portafolio personal](https://jocular-pie-06b1ac.netlify.app)
 
 -----
 
