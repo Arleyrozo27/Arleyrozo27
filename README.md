@@ -1,21 +1,56 @@
-<h1 align="center">¡Bienvenido! Soy Arley Gustavo Rozo Rodriguez👻🤖
+# 👋 ¡Hola! Soy Arley 👨‍💻
 
-<p align="center">💻👻  <em>"El código es mi lenguaje para cambiar el mundo."</em></p>
+Soy un **estudiante de Desarrollo de Software** apasionado por la tecnología, el aprendizaje continuo y la creación de soluciones útiles. Actualmente estoy en formación en **dos instituciones distintas**, lo que me ha permitido fortalecer mi base en programación, bases de datos, diseño web y más.
 
--------
+------
 
-## 🧐 Sobre mi
-- 😶‍🌫️ Cucuta, Norte de Santander - Colombia 🇨🇴
-- 🤓 Estudiante de Desarrollo de Software
-- 🤔 Idiomas: Español 🇪🇸 | Inglés 🇬🇧 (Principiante)
+## 🎓 Formación académica
 
--------
+🎓 **Campuslands**  
+Estudiante activo en el programa de Desarrollo de Software, con enfoque en proyectos prácticos, trabajo en equipo y habilidades blandas.
 
-### 📲 Contacto
+🎓 **[Nombre de la segunda institución]**  
+(Especifica aquí el nombre si deseas, por ejemplo: Servicio Nacional de Aprendizaje - SENA)  
+Complementando mis estudios con formación técnica especializada en programación, bases de datos y desarrollo web.
 
-- 📞 +57 314 3282345
-- 📧 arleyrodriguez280@gmail.com
+-----
 
----
+## 💻 Tecnologías que estoy aprendiendo
 
-<p align="center"> 👋 ¡Vuelva pronto!, Espero y encontraras lo que buscabas 🎮🧩</p>
+- HTML, CSS, JavaScript
+- Python
+- SQL y modelado de bases de datos
+- Git y GitHub
+- Fundamentos de ingeniería de software
+
+-----
+
+## 🚀 Objetivos
+
+- Convertirme en un desarrollador full-stack competente.
+- Construir proyectos útiles que resuelvan problemas reales.
+- Aprender buenas prácticas y metodologías ágiles.
+- Colaborar en proyectos open source y seguir creciendo profesionalmente.
+
+-----
+
+## 📈 GitHub Stats
+
+![Arley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+
+> ✨ Reemplaza `tu-usuario` con tu nombre de usuario real en GitHub para que funcione correctamente.
+
+-----
+
+## 📫 ¿Quieres contactarme?
+
+Puedes escribirme por correo o encontrarme en mis redes sociales:
+
+- ✉️ [tu-correo@example.com]
+- 💼 [LinkedIn](https://linkedin.com/in/tu-perfil) *(opcional)*
+- 🌐 [Portafolio personal](https://tuportafolio.com) *(opcional)*
+
+-----
+
+Gracias por visitar mi perfil. ¡Estoy abierto a colaborar, aprender y crecer en esta comunidad! 🚀
