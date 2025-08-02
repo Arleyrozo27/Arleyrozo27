@@ -46,7 +46,7 @@ Puedes escribirme por correo o encontrarme en mis redes sociales:
 
 - ✉️ [Mi Correo](arleyrodriguez280@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/estudiante-backen-arley-rozo)
-- 🌐 [Portafolio personal](https://jocular-pie-06b1ac.netlify.app)
+- 🌐 [Portafolio personal](https://ubiquitous-crisp-df43ca.netlify.app)
 
 -----
 
