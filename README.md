@@ -1,40 +1,60 @@
-👋 ¡Hola! Soy Arley Gustavo Rozo Rodriguez 👨‍💻
-Soy un futuro desarrollador de software con formación técnica y práctica en desarrollo web, bases de datos y metodologías ágiles. Actualmente, estoy culminando mi etapa de estudios en Campuslands e Inprosistemas, donde he fortalecido mis habilidades técnicas y blandas para aportar valor en entornos reales.
+# 👋 ¡Hola! Soy Arley Gustavo Rozo Rodríguez
 
-🎓 Formación académica
-🎓 Tecnólogo en Desarrollo de Software – Campuslands
-Culminando en 2025
-Formación intensiva con enfoque en proyectos reales, trabajo en equipo, clean code y arquitectura de software.
-Tecnologías: Java, Python, bases de datos, desarrollo web.
+## 💻 Futuro Desarrollador de Software
 
-🎓 Técnico en Sistemas – Inprosistemas
-Culminando en 2025
-Formación especializada en desarrollo de software, fundamentos de sistemas computacionales y programación.
+Soy un apasionado por la tecnología en formación, actualmente culminando mis estudios en **Campuslands** e **Inprosistemas**. Mi objetivo es convertirme en un desarrollador competente que aporte soluciones innovadoras y valore el trabajo en equipo.
 
-🛠️ Tecnologías y herramientas
-Lenguajes de programación: Java, Python, JavaScript
+---
 
-Frontend: HTML, CSS
+## 🎓 Formación Académica
 
-Bases de datos: SQL (MySQL, PostgreSQL), modelado relacional
+### **Tecnólogo en Desarrollo de Software**
+*Campuslands - Culminando en 2025*
+- Enfoque en proyectos reales y metodologías ágiles
+- Tecnologías: Java, Python, Bases de Datos, Desarrollo Web
+- Trabajo en equipo y clean code
 
-Control de versiones: Git & GitHub
+### **Técnico en Sistemas**  
+*Inprosistemas - Culminando en 2025*
+- Fundamentos de sistemas computacionales
+- Desarrollo de software especializado
+- Programación estructurada y orientada a objetos
 
-Área de sistemas: Conocimientos en fundamentos de sistemas computacionales
+---
 
-🎯 Objetivos profesionales
-Integrarme a un equipo de desarrollo como Desarrollador Junior o Trainee.
+## 🛠️ Stack Tecnológico
 
-Especializarme en tecnologías backend con Java o full-stack.
+### **Lenguajes de Programación**
+`Java` `Python` `JavaScript`
 
-Contribuir en proyectos de código abierto.
+### **Frontend**
+`HTML` `CSS`
 
-Seguir aprendiendo frameworks modernos y mejores prácticas.
+### **Bases de Datos**
+`MySQL` `PostgreSQL` `Modelado Relacional`
 
-📈 Estadísticas de GitHub
-https://github-readme-stats.vercel.app/api?username=Arleyrozo27&show_icons=true&theme=radical
+### **Herramientas**
+`Git` `GitHub` `Sistemas Computacionales`
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Arleyrozo27&layout=compact&theme=radical
+---
+
+## 🎯 Objetivos Profesionales
+
+- 🚀 Integrarme como **Desarrollador Junior o Trainee**
+- 🔧 Especializarme en **Backend con Java** o **Full-Stack**
+- 🌱 Contribuir a proyectos **open source**
+- 📚 Segir aprendiendo frameworks y mejores prácticas
+
+---
+
+## 📊 Mis Estadísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arleyroz027&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arleyroz027&layout=compact&theme=radical)
+
+---
+
+## 📫 Conectemos
 
 - ✉️ [Mi Correo](arleyrodriguez280@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/estudiante-backen-arley-rozo)
@@ -42,4 +62,8 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=Arleyrozo27&layou
 
 -----
 
-Gracias por visitar mi perfil. ¡Estoy abierto a colaborar, aprender y crecer en esta comunidad! 🚀
+**¡Estoy abierto a oportunidades, colaboraciones y nuevos retos!**
+
+---
+
+*¡Gracias por visitar mi perfil! Siempre dispuesto a aprender y crecer en esta comunidad tecnológica.*
