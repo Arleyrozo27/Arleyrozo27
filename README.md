@@ -49,8 +49,8 @@ Soy un apasionado por la tecnología en formación, actualmente culminando mis e
 
 ## 📊 Mis Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arleyroz027&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arleyroz027&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arleyrozo27&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arleyrozo27&layout=compact&theme=radical)
 
 ---
 
