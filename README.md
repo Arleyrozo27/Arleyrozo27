@@ -341,6 +341,7 @@ Buenas prácticas que aplico:
 ---
 
 ## 🎓 Formación en Campuslands
+
 ### Tecnologías aprendidas:
 
 #### Java: Fundamentos, POO, Spring Boot
@@ -353,7 +354,10 @@ Buenas prácticas que aplico:
 
 #### Git y GitHub: Control de versiones y colaboración
 
+---
+
 #### Proyectos desarrollados:
+
 #### Sistema de gestión con Spring Boot y MySQL
 
 #### API REST con Python y PostgreSQL
