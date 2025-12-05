@@ -5,6 +5,9 @@
 [![GitHub Followers](https://img.shields.io/github/followers/Arleyrozo27?style=social)](https://github.com/Arleyrozo27)
 [![GitHub Stars](https://img.shields.io/github/stars/Arleyrozo27?style=social)](https://github.com/Arleyrozo27)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Arleyrozo27.Arleyrozo27)](https://github.com/Arleyrozo27)
+
+---
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
