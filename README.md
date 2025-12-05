@@ -1,220 +1,604 @@
-🚀 Nombre del Proyecto
+# 👨‍💻 **Arley Gustavo Rozo Rodríguez**  
+### **🚀 Futuro Desarrollador de Software | Campuslands 2025**
 
-Breve frase que describa el propósito del proyecto.
-Ejemplo: Sistema de Gestión de Reservas para un edificio de apartamentos.
+[![GitHub Followers](https://img.shields.io/github/followers/Arleyrozo27?style=social)](https://github.com/Arleyrozo27)
+[![GitHub Stars](https://img.shields.io/github/stars/Arleyrozo27?style=social)](https://github.com/Arleyrozo27)
+[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Arleyrozo27.Arleyrozo27)](https://github.com/Arleyrozo27)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-📖 Descripción General
+---
 
-Explica de forma clara y directa qué hace tu proyecto, por qué existe y qué problema resuelve.
+## 📌 **Portada del Repositorio**
 
-Ejemplo:
-Este proyecto permite a los usuarios gestionar reservas de forma automática mediante códigos QR, eliminando la necesidad de recepción física. Incluye autenticación, gestión de usuarios, base de datos y un panel administrativo.
+> "Este repositorio representa mi evolución como desarrollador de software. Cada proyecto aquí documentado aplica las mejores prácticas de la industria, arquitecturas escalables y metodologías ágiles aprendidas en Campuslands."
 
-🛠️ Tecnologías Utilizadas
-Frontend
+**✨ Este repositorio cumple con todos los estándares profesionales:**
+- ✅ **Arquitectura limpia** con tecnologías enseñadas en Campuslands
+- ✅ **Documentación exhaustiva** para fácil mantenimiento
+- ✅ **Commits profesionales** siguiendo Conventional Commits
+- ✅ **Despliegue en GitHub Pages** para frontend
+- ✅ **Metodologías ágiles** (Scrum) completamente documentadas
+- ✅ **APIs RESTful** con Spring Boot y Python
 
-HTML
+---
 
-CSS
+## 🏆 **Proyectos Campuslands**
 
-JavaScript
+### **🎯 Proyecto 1: Sistema de Gestión con Spring Boot**
+*Estado: En desarrollo | Tecnologías: Java, Spring Boot, MySQL*
 
-Backend
+```java
+// Ejemplo de código - UserController.java
+@RestController
+@RequestMapping("/api/users")
+public class UserController {
+    
+    @Autowired
+    private UserService userService;
+    
+    @GetMapping
+    public ResponseEntity<List<UserDTO>> getAllUsers() {
+        return ResponseEntity.ok(userService.findAll());
+    }
+    
+    @PostMapping
+    public ResponseEntity<UserDTO> createUser(@Valid @RequestBody UserRequest request) {
+        return ResponseEntity.status(HttpStatus.CREATED)
+               .body(userService.createUser(request));
+    }
+}
+Características:
 
-Java (Spring Boot) / Python (dependiendo del proyecto)
+✅ API REST con Spring Boot
 
-Arquitectura en capas / MVC
+✅ Conexión a MySQL con Spring Data JPA
 
-Base de Datos
+✅ Validación de datos con Bean Validation
 
-PostgreSQL
+✅ Manejo de excepciones global
 
-MySQL (si aplica)
+Estructura del proyecto:
 
-Herramientas
+text
+src/
+├── main/
+│   ├── java/
+│   │   └── com/
+│   │       └── arley/
+│   │           └── sistema/
+│   │               ├── controller/
+│   │               ├── service/
+│   │               ├── repository/
+│   │               ├── model/
+│   │               └── dto/
+│   └── resources/
+│       ├── application.properties
+│       └── data.sql
+└── test/
+    └── java/
+        └── com/
+            └── arley/
+                └── sistema/
+                    └── controller/
+📊 Proyecto 2: API con Python y PostgreSQL
+Estado: Completado | Tecnologías: Python, PostgreSQL, FastAPI
 
-Git
+python
+# Ejemplo de código - main.py
+from fastapi import FastAPI, HTTPException
+from pydantic import BaseModel
+import psycopg2
 
-GitHub
+app = FastAPI()
 
-GitHub Projects / Trello / Jira
+class Item(BaseModel):
+    name: str
+    price: float
 
-GitHub Pages (para el despliegue)
+@app.get("/items/")
+async def read_items():
+    conn = psycopg2.connect(
+        host="localhost",
+        database="mydatabase",
+        user="myuser",
+        password="mypassword"
+    )
+    cur = conn.cursor()
+    cur.execute("SELECT * FROM items")
+    items = cur.fetchall()
+    cur.close()
+    conn.close()
+    return {"items": items}
 
-📦 Instalación y Ejecución
-1. Clonar el repositorio
-git clone https://github.com/tuusuario/nombre-del-proyecto.git
-cd nombre-del-proyecto
+@app.post("/items/")
+async def create_item(item: Item):
+    # Lógica para crear item en PostgreSQL
+    return {"message": "Item creado", "item": item}
+🌐 Proyecto 3: Portafolio Web Responsive
+Estado: Completado | Tecnologías: HTML, CSS, JavaScript
 
-2. Instalar dependencias
-
-(Si aplica — node, pip, maven, gradle, etc.)
-
-npm install
-
-
-o
-
-mvn install
-
-3. Configurar variables de entorno
-
-DB_USER
-
-DB_PASSWORD
-
-DB_HOST
-
-(Coloca aquí los valores necesarios)
-
-4. Ejecutar el proyecto
-npm start
-
-
-o
-
-mvn spring-boot:run
-
-🌐 Despliegue
-
-Si tienes versión desplegada en GitHub Pages, verla aquí:
-
-👉 https://tu-usuario.github.io/nombre-del-proyecto
-
-Si el backend está desplegado en Render, Railway, Cyclic, etc., coloca su URL aquí.
-
-🧪 Características Principales
-
-✔️ Autenticación de usuarios
-
-✔️ Gestión completa del sistema
-
-✔️ CRUD funcional
-
-✔️ Arquitectura modular
-
-✔️ Documentación clara
-
-✔️ Manejo de versiones y ramas
-
-✔️ Patrones de diseño / SOLID
-
-✔️ Integración con APIs (si aplica)
-
-🧱 Arquitectura del Proyecto
-
-Explica cómo está organizado tu código:
-
-/src
-  /main
-    /java
-      /controller
-      /service
-      /repository
-      /model
-    /resources
-      application.properties
-/frontend
-  index.html
-  ...
-
-
-Puedes agregar un diagrama (opcional).
-
-📡 Documentación de API
-
-Ejemplo:
-
-GET /api/usuarios
-
-Devuelve todos los usuarios.
-
-Respuesta:
-
-[
-  { "id": 1, "nombre": "Arley" }
-]
-
-POST /api/login
-
-Autenticación.
-
-Body:
-
-{
-  "email": "admin@gmail.com",
-  "password": "1234"
+html
+<!-- Ejemplo de código - index.html -->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portafolio Arley Rozo</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>👨‍💻 Arley Rozo</h1>
+        <p>Desarrollador Full Stack en formación</p>
+    </header>
+    
+    <section id="proyectos">
+        <h2>Mis Proyectos</h2>
+        <div class="proyecto">
+            <h3>Sistema de Gestión</h3>
+            <p>Spring Boot + MySQL</p>
+        </div>
+    </section>
+</body>
+</html>
+css
+/* Ejemplo de código - styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
-📜 Commits con Conventional Commit
+header {
+    background-color: #333;
+    color: white;
+    padding: 2rem;
+    text-align: center;
+}
 
-Ejemplos de mensajes reales:
+.proyecto {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 5px;
+}
+🛠️ Stack Tecnológico (Campuslands)
+💻 Backend:
+Java - Programación orientada a objetos
 
-feat✨: agregar módulo de reservas
+Spring Boot - Framework para aplicaciones Java
 
-fix🐛: corregir bug en el formulario
+Python - Desarrollo rápido de aplicaciones
 
-docs📝: actualizar README
+🌐 Frontend:
+HTML5 - Estructura web
 
-style🎨: mejorar formato del código
+CSS3 - Estilos y diseño responsive
 
-refactor♻️: optimizar consultas SQL
+JavaScript - Interactividad en el navegador
 
-👥 Trabajo Colaborativo
+🗄️ Bases de Datos:
+MySQL - Sistema de gestión de bases de datos relacional
 
-Incluye aquí evidencia del trabajo en equipo:
+PostgreSQL - Base de datos relacional avanzada
 
-Capturas de GitHub Projects
+🔧 Herramientas:
+Git - Control de versiones
 
-Enlaces a tableros de tareas
+GitHub - Repositorio y colaboración
 
-Roles por miembro
+Postman - Pruebas de APIs
 
-Evidencia de sprints
+📊 Estadísticas GitHub
+https://github-readme-stats.vercel.app/api?username=Arleyrozo27&show_icons=true&theme=radical&hide_border=true
 
-Si trabajaste solo, explica el flujo utilizado.
+https://github-readme-stats.vercel.app/api/top-langs/?username=Arleyrozo27&layout=compact&theme=radical&hide_border=true
 
-🧠 Principios y Patrones Aplicados
+📋 Conventional Commits
+Formato que uso en todos mis proyectos:
 
-Principios SOLID
 
-MVC / arquitectura por capas
+<tipo>: <descripción>
 
-DTO (si lo usas)
+[body opcional]
 
-Repository Pattern
+[footer opcional]
+Tipos de commits que utilizo:
+Tipo	Emoji	Descripción	Ejemplo
+feat	✨	Nueva característica	feat: ✨ agregar login de usuarios
+fix	🐛	Corrección de bug	fix: 🐛 corregir error en formulario
+docs	📚	Documentación	docs: 📚 actualizar README.md
+style	🎨	Formato/estilo	style: 🎨 mejorar diseño CSS
+refactor	♻️	Refactorización	refactor: ♻️ reorganizar código Java
+test	✅	Pruebas	test: ✅ agregar pruebas unitarias
+Ejemplos reales de mis commits:
+bash
+# Ejemplo 1: Nueva funcionalidad en Java
+git commit -m "feat: ✨ implementar CRUD de productos con Spring Boot"
 
-Modularización
+# Ejemplo 2: Corrección en JavaScript
+git commit -m "fix: 🐛 corregir validación de formulario en JavaScript"
 
-Explica cómo se aplican en tu código.
+# Ejemplo 3: Documentación
+git commit -m "docs: 📚 agregar guía de instalación del proyecto"
 
-📚 Documentación Adicional
+# Ejemplo 4: Mejora de CSS
+git commit -m "style: 🎨 hacer diseño responsive para móviles"
 
-Manual de usuario
+# Ejemplo 5: Refactorización en Python
+git commit -m "refactor: ♻️ mejorar estructura de funciones en Python"
 
-Diagramas UML
 
-Esquema de base de datos
+🏗️ Arquitectura de Proyectos
 
-APIs externas utilizadas
+Estructura para proyecto Spring Boot:
 
-Casos de uso
+proyecto-spring-boot/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── arley/
+│   │   │           └── proyecto/
+│   │   │               ├── ProyectoApplication.java
+│   │   │               ├── controller/
+│   │   │               │   └── UserController.java
+│   │   │               ├── service/
+│   │   │               │   └── UserService.java
+│   │   │               ├── repository/
+│   │   │               │   └── UserRepository.java
+│   │   │               ├── model/
+│   │   │               │   └── User.java
+│   │   │               └── dto/
+│   │   │                   └── UserDTO.java
+│   │   └── resources/
+│   │       ├── application.properties
+│   │       ├── static/
+│   │       └── templates/
+│   └── test/
+│       └── java/
+│           └── com/
+│               └── arley/
+│                   └── proyecto/
+│                       └── ProyectoApplicationTests.java
+├── pom.xml
+└── README.md
 
-Adjunta documentos o enlaces si los tienes.
+Estructura para proyecto web (HTML/CSS/JS):
 
-👨‍💻 Autor
 
+proyecto-web/
+├── index.html
+├── styles.css
+├── script.js
+├── images/
+│   └── logo.png
+├── pages/
+│   ├── about.html
+│   └── contact.html
+└── README.md
+Estructura para proyecto Python:
+
+proyecto-python/
+├── main.py
+├── requirements.txt
+├── modules/
+│   ├── __init__.py
+│   ├── database.py
+│   └── utils.py
+├── tests/
+│   └── test_main.py
+└── README.md
+
+🌐 Despliegue en GitHub Pages
+Configuración para proyecto web:
+Crear repositorio en GitHub
+
+Subir archivos HTML, CSS y JavaScript
+
+Ir a Settings → Pages
+
+Seleccionar rama main como source
+
+Guardar y esperar el despliegue
+
+Mi portafolio desplegado:
+
+URL: https://arleyrozo27.github.io
+
+Tecnologías: HTML5, CSS3, JavaScript
+
+Responsive: Sí, funciona en móviles y desktop
+
+Archivo de configuración para GitHub Pages:
+
+# En la rama main o gh-pages
+# Estructura básica:
+# - index.html (página principal)
+# - styles.css (estilos)
+# - script.js (JavaScript)
+# - assets/ (imágenes, fuentes, etc.)
+📚 Documentación de Proyectos
+
+README.md de cada proyecto incluye:
+
+# Nombre del Proyecto
+
+## 📋 Descripción
+Breve descripción del proyecto y su propósito.
+
+## 🚀 Tecnologías Utilizadas
+- Java / Spring Boot
+- MySQL / PostgreSQL
+- HTML / CSS / JavaScript
+- Python
+
+## 🛠️ Instalación
+1. Clonar el repositorio
+2. Configurar base de datos
+3. Ejecutar aplicación
+
+## 📁 Estructura del Proyecto
+Explicación de carpetas y archivos
+
+## 👨‍💻 Autor
 Arley Gustavo Rozo Rodríguez
-📧 arleyrodriguez280@gmail.com
+
+## 📄 Licencia
+Información de licencia
+Documentación de API (si aplica):
+markdown
+## API Endpoints
+
+### GET /api/users
+Obtiene todos los usuarios
+
+### POST /api/users
+Crea un nuevo usuario
+
+### Ejemplo de request:
+```json
+{
+  "name": "Arley",
+  "email": "arley@example.com"
+}
+text
+
+---
+
+## 🤝 **Trabajo Colaborativo**
+
+### **Flujo de trabajo con Git:**
+1. Crear rama para nueva característica:
+```bash
+git checkout -b feature/nueva-funcionalidad
+Hacer commits descriptivos:
+
+bash
+git add .
+git commit -m "feat: ✨ agregar funcionalidad X"
+Subir cambios:
+
+bash
+git push origin feature/nueva-funcionalidad
+Crear Pull Request en GitHub
+
+Buenas prácticas que aplico:
+✅ Commits pequeños y frecuentes
+
+✅ Mensajes de commit descriptivos
+
+✅ Pull Requests con descripción clara
+
+✅ Code review entre compañeros
+
+✅ Mantener main branch estable
+
+📝 Ejemplos de Código por Tecnología
+
+Java - Clase de modelo:
+
+
+// User.java
+@Entity
+@Table(name = "users")
+public class User {
+    
+    @Id
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    private Long id;
+    
+    @Column(nullable = false)
+    private String name;
+    
+    @Column(unique = true, nullable = false)
+    private String email;
+    
+    // Getters y Setters
+    // Constructor
+}
+
+Python - Conexión a PostgreSQL:
+
+
+# database.py
+import psycopg2
+from psycopg2 import Error
+
+class Database:
+    def __init__(self):
+        self.connection = psycopg2.connect(
+            user="usuario",
+            password="contraseña",
+            host="localhost",
+            port="5432",
+            database="basedatos"
+        )
+    
+    def get_users(self):
+        cursor = self.connection.cursor()
+        cursor.execute("SELECT * FROM users")
+        return cursor.fetchall()
+
+JavaScript - Validación de formulario:
+
+
+// form-validation.js
+function validateForm() {
+    const email = document.getElementById('email').value;
+    const password = document.getElementById('password').value;
+    
+    if (!email || !password) {
+        alert('Por favor complete todos los campos');
+        return false;
+    }
+    
+    if (!email.includes('@')) {
+        alert('Email no válido');
+        return false;
+    }
+    
+    return true;
+}
+
+CSS - Diseño responsive:
+
+
+/* responsive.css */
+.container {
+    width: 100%;
+    padding: 20px;
+}
+
+@media (min-width: 768px) {
+    .container {
+        width: 750px;
+        margin: 0 auto;
+    }
+}
+
+@media (min-width: 992px) {
+    .container {
+        width: 970px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container {
+        width: 1170px;
+    }
+}
+
+HTML - Estructura semántica:
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Proyecto</title>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#proyectos">Proyectos</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section id="inicio">
+            <h1>Bienvenido</h1>
+            <p>Descripción del proyecto</p>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 Arley Rozo</p>
+    </footer>
+</body>
+</html>
+
+🎓 Formación en Campuslands
+Tecnologías aprendidas:
+Java: Fundamentos, POO, Spring Boot
+
+Python: Sintaxis, estructuras de datos, APIs
+
+Frontend: HTML5, CSS3, JavaScript básico
+
+Bases de datos: MySQL, PostgreSQL, consultas SQL
+
+Git y GitHub: Control de versiones y colaboración
+
+Proyectos desarrollados:
+Sistema de gestión con Spring Boot y MySQL
+
+API REST con Python y PostgreSQL
+
+Portafolio web responsive con HTML/CSS/JS
+
+Aplicaciones web con Java EE
+
+Metodologías aplicadas:
+Desarrollo ágil con Scrum
+
+Control de versiones con Git
+
+Code review entre compañeros
+
+Documentación de proyectos
+
+📫 Contacto
+Información de contacto:
+📧 Email: arleyrodriguez280@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/estudiante-backen-arley-rozo
 
 🌐 Portafolio: https://ubiquitous-crisp-df43ca.netlify.app
 
------
+🐙 GitHub: https://github.com/Arleyrozo27
 
-**¡Estoy abierto a oportunidades, colaboraciones y nuevos retos!**
+Disponibilidad:
+🔍 Buscando: Práctica profesional o puesto junior
 
----
+📍 Modalidad: Presencial o remoto
 
-*¡Gracias por visitar mi perfil! Siempre dispuesto a aprender y crecer en esta comunidad tecnológica.*
+⏰ Tiempo: Tiempo completo
+
+🎯 Objetivos 2025
+Metas profesionales:
+👨‍💻 Conseguir primera experiencia como desarrollador
+
+📚 Dominar Spring Boot y desarrollo backend
+
+🌐 Aprender más sobre frontend moderno
+
+🤝 Contribuir a proyectos open source
+
+Proyectos personales:
+Completar sistema de gestión con Spring Boot
+
+Crear API completa con Python
+
+Mejorar portafolio con más funcionalidades
+
+Aprender React.js (próximo paso)
+
+<div align="center">
+⭐ ¡Gracias por visitar mi perfil!
+"El mejor momento para plantar un árbol fue hace veinte años. El segundo mejor momento es ahora."
+
+Siempre aprendiendo, siempre mejorando 🚀
+
+</div> ```
