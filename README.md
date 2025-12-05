@@ -40,6 +40,7 @@
 
 ```java
 // Ejemplo de código - UserController.java
+
 @RestController
 @RequestMapping("/api/users")
 public class UserController {
@@ -133,8 +134,10 @@ async def read_items():
 
 @app.post("/items/")
 async def create_item(item: Item):
+
     # Lógica para crear item en PostgreSQL
     return {"message": "Item creado", "item": item}
+
 ````
 
 ### **🌐 Proyecto 3: Portafolio Web Responsive**
@@ -173,6 +176,7 @@ async def create_item(item: Item):
 
 ```
 /* Ejemplo de código - styles.css */
+
 body {
     font-family: Arial, sans-serif;
     margin: 0;
@@ -234,10 +238,14 @@ header {
 ---
 ### **📊 Estadísticas GitHub**
 
+````
+
 https://github-readme-stats.vercel.app/api?username=Arleyrozo27&show_icons=true&theme=radical&hide_border=true
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=Arleyrozo27&layout=compact&theme=radical&hide_border=true
 
+
+````
 ---
 ### **🏗️ Arquitectura de Proyectos**
 
@@ -292,8 +300,12 @@ proyecto-web/
 │   ├── about.html
 │   └── contact.html
 └── README.md
-Estructura para proyecto Python:
 
+````
+
+`*Estructura para proyecto Python:*
+
+````
 proyecto-python/
 ├── main.py
 ├── requirements.txt
@@ -318,12 +330,12 @@ proyecto-python/
 git checkout -b feature/nueva-funcionalidad
 Hacer commits descriptivos:
 
-bash
+
 git add .
 git commit -m "feat: ✨ agregar funcionalidad X"
 Subir cambios:
 
-bash
+
 git push origin feature/nueva-funcionalidad
 Crear Pull Request en GitHub
 
