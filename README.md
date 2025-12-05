@@ -94,10 +94,10 @@ src/
 
 ````
 
-###**📊 Proyecto 2: API con Python y PostgreSQL**
+### **📊 Proyecto 2: API con Python y PostgreSQL**
 *Estado: Completado | Tecnologías: Python, PostgreSQL, FastAPI*
 
-###**python**
+### **python**
 
 ````
 # Ejemplo de código - main.py
@@ -133,10 +133,10 @@ async def create_item(item: Item):
     return {"message": "Item creado", "item": item}
 ````
 
-###**🌐 Proyecto 3: Portafolio Web Responsive**
+### **🌐 Proyecto 3: Portafolio Web Responsive**
 *Estado: Completado | Tecnologías: HTML, CSS, JavaScript*
 
-####**html**
+#### **html**
 
 ```
 <!-- Ejemplo de código - index.html -->
@@ -165,7 +165,7 @@ async def create_item(item: Item):
 </html>
 ```
 
-####**css**
+#### **css**
 
 ```
 /* Ejemplo de código - styles.css */
@@ -191,9 +191,9 @@ header {
 
 ```
 
-##**🛠️ Stack Tecnológico (Campuslands)**
+## **🛠️ Stack Tecnológico (Campuslands)**
 
-###**💻 Backend:**
+### **💻 Backend:**
 
 *Java - Programación orientada a objetos*
 
@@ -201,7 +201,7 @@ header {
 
 *Python - Desarrollo rápido de aplicaciones*
 
-###**🌐 Frontend:**
+### **🌐 Frontend:**
 
 *HTML5 - Estructura web*
 
@@ -209,13 +209,13 @@ header {
 
 *JavaScript - Interactividad en el navegador*
 
-###**🗄️ Bases de Datos:**
+### **🗄️ Bases de Datos:**
 
 *MySQL - Sistema de gestión de bases de datos relacional*
 
 *PostgreSQL - Base de datos relacional avanzada*
 
-###**🔧 Herramientas:**
+### **🔧 Herramientas:**
 
 *Git - Control de versiones*
 
@@ -224,14 +224,14 @@ header {
 *Postman - Pruebas de APIs*
 
 
-###**📊 Estadísticas GitHub**
+### **📊 Estadísticas GitHub**
 
 https://github-readme-stats.vercel.app/api?username=Arleyrozo27&show_icons=true&theme=radical&hide_border=true
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=Arleyrozo27&layout=compact&theme=radical&hide_border=true
 
 
-###**🏗️ Arquitectura de Proyectos**
+### **🏗️ Arquitectura de Proyectos**
 
 *Estructura para proyecto Spring Boot:*
 
@@ -299,7 +299,7 @@ proyecto-python/
 
 ````
 
-###**🌐 Despliegue en GitHub Pages**
+### **🌐 Despliegue en GitHub Pages**
 
 Configuración para proyecto web:
 
