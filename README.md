@@ -240,9 +240,9 @@ header {
 
 ````
 
-https://github-readme-stats.vercel.app/api?username=Arleyrozo27&show_icons=true&theme=radical&hide_border=true
+![Stats](https://github-readme-stats.vercel.app/api?username=Arleyrozo27&count_private=true&show_icons=true&theme=dark)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=Arleyrozo27&layout=compact&theme=radical&hide_border=true
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=Arleyrozo27&hide=html,css&layout=compact&theme=dark)
 
 
 ````
@@ -324,7 +324,8 @@ proyecto-python/
 ## 🤝 **Trabajo Colaborativo**
 
 ### **Flujo de trabajo con Git:**
-1. Crear rama para nueva característica:
+
+Crear rama para nueva característica:
    
 ```
 git checkout -b feature/nueva-funcionalidad
@@ -344,6 +345,7 @@ Crear Pull Request en GitHub
 ---
 
 Buenas prácticas que aplico:
+
 ✅ Commits pequeños y frecuentes
 
 ✅ Mensajes de commit descriptivos
@@ -404,7 +406,7 @@ Documentación de proyectos
 
 ### 💼 LinkedIn: https://www.linkedin.com/in/estudiante-backen-arley-rozo
 
-### 🌐 Portafolio: [(https://portafolio-arley-rozo.onrender.com)]
+### 🌐 Portafolio: https://portafolio-arley-rozo.onrender.com
 
 ### 🐙 GitHub: https://github.com/Arleyrozo27
 
