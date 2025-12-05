@@ -430,9 +430,9 @@ Documentación de proyectos
     
 ## **⭐ ¡Gracias por visitar mi perfil!**
 
-**"El mejor momento para plantar un árbol fue hace veinte años. El segundo mejor momento es ahora."**
+### **"El mejor momento para plantar un árbol fue hace veinte años. El segundo mejor momento es ahora."**
 
-**Siempre aprendiendo, siempre mejorando 🚀**
+### **Siempre aprendiendo, siempre mejorando 🚀**
 
 </div> 
 
