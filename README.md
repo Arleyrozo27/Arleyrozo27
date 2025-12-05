@@ -70,7 +70,7 @@ Características:
 
 Estructura del proyecto:
 
-text
+````
 src/
 ├── main/
 │   ├── java/
@@ -91,11 +91,16 @@ src/
             └── arley/
                 └── sistema/
                     └── controller/
+
+````
+
 📊 Proyecto 2: API con Python y PostgreSQL
 Estado: Completado | Tecnologías: Python, PostgreSQL, FastAPI
 
 python
+````
 # Ejemplo de código - main.py
+
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 import psycopg2
@@ -125,6 +130,8 @@ async def read_items():
 async def create_item(item: Item):
     # Lógica para crear item en PostgreSQL
     return {"message": "Item creado", "item": item}
+````
+
 🌐 Proyecto 3: Portafolio Web Responsive
 Estado: Completado | Tecnologías: HTML, CSS, JavaScript
 
@@ -157,6 +164,7 @@ html
 ```
 
 css
+
 ```
 /* Ejemplo de código - styles.css */
 body {
@@ -178,6 +186,7 @@ header {
     margin: 1rem;
     border-radius: 5px;
 }
+
 ```
 
 🛠️ Stack Tecnológico (Campuslands)
@@ -237,8 +246,11 @@ docs	📚	Documentación	docs: 📚 actualizar README.md
 style	🎨	Formato/estilo	style: 🎨 mejorar diseño CSS
 refactor	♻️	Refactorización	refactor: ♻️ reorganizar código Java
 test	✅	Pruebas	test: ✅ agregar pruebas unitarias
+
+
 Ejemplos reales de mis commits:
-bash
+
+
 # Ejemplo 1: Nueva funcionalidad en Java
 git commit -m "feat: ✨ implementar CRUD de productos con Spring Boot"
 
@@ -258,6 +270,7 @@ git commit -m "refactor: ♻️ mejorar estructura de funciones en Python"
 🏗️ Arquitectura de Proyectos
 
 Estructura para proyecto Spring Boot:
+````
 
 proyecto-spring-boot/
 ├── src/
@@ -290,8 +303,11 @@ proyecto-spring-boot/
 ├── pom.xml
 └── README.md
 
+````
+
 Estructura para proyecto web (HTML/CSS/JS):
 
+````
 
 proyecto-web/
 ├── index.html
@@ -316,8 +332,12 @@ proyecto-python/
 │   └── test_main.py
 └── README.md
 
+````
+
 🌐 Despliegue en GitHub Pages
+
 Configuración para proyecto web:
+
 Crear repositorio en GitHub
 
 Subir archivos HTML, CSS y JavaScript
@@ -360,20 +380,25 @@ Breve descripción del proyecto y su propósito.
 - Python
 
 ## 🛠️ Instalación
+
 1. Clonar el repositorio
 2. Configurar base de datos
 3. Ejecutar aplicación
 
 ## 📁 Estructura del Proyecto
+
 Explicación de carpetas y archivos
 
 ## 👨‍💻 Autor
+
 Arley Gustavo Rozo Rodríguez
 
 ## 📄 Licencia
+
 Información de licencia
 Documentación de API (si aplica):
 markdown
+
 ## API Endpoints
 
 ### GET /api/users
@@ -397,7 +422,8 @@ text
 
 ### **Flujo de trabajo con Git:**
 1. Crear rama para nueva característica:
-```bash
+   
+```
 git checkout -b feature/nueva-funcionalidad
 Hacer commits descriptivos:
 
@@ -426,7 +452,7 @@ Buenas prácticas que aplico:
 📝 Ejemplos de Código por Tecnología
 
 Java - Clase de modelo:
-
+````
 
 // User.java
 @Entity
@@ -447,9 +473,10 @@ public class User {
     // Constructor
 }
 
+````
+
 Python - Conexión a PostgreSQL:
-
-
+````
 # database.py
 import psycopg2
 from psycopg2 import Error
@@ -469,9 +496,11 @@ class Database:
         cursor.execute("SELECT * FROM users")
         return cursor.fetchall()
 
+````
+
 JavaScript - Validación de formulario:
 
-
+````
 // form-validation.js
 function validateForm() {
     const email = document.getElementById('email').value;
@@ -489,10 +518,10 @@ function validateForm() {
     
     return true;
 }
-
+````
 CSS - Diseño responsive:
 
-
+````
 /* responsive.css */
 .container {
     width: 100%;
@@ -517,7 +546,7 @@ CSS - Diseño responsive:
         width: 1170px;
     }
 }
-
+````
 HTML - Estructura semántica:
 
 ```
@@ -575,6 +604,8 @@ Portafolio web responsive con HTML/CSS/JS
 Aplicaciones web con Java EE
 
 Metodologías aplicadas:
+
+
 Desarrollo ágil con Scrum
 
 Control de versiones con Git
@@ -585,6 +616,8 @@ Documentación de proyectos
 
 📫 Contacto
 Información de contacto:
+
+
 📧 Email: arleyrodriguez280@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/estudiante-backen-arley-rozo
@@ -594,6 +627,7 @@ Información de contacto:
 🐙 GitHub: https://github.com/Arleyrozo27
 
 Disponibilidad:
+
 🔍 Buscando: Práctica profesional o puesto junior
 
 📍 Modalidad: Presencial o remoto
@@ -601,7 +635,10 @@ Disponibilidad:
 ⏰ Tiempo: Tiempo completo
 
 🎯 Objetivos 2025
+
 Metas profesionales:
+
+
 👨‍💻 Conseguir primera experiencia como desarrollador
 
 📚 Dominar Spring Boot y desarrollo backend
@@ -611,6 +648,7 @@ Metas profesionales:
 🤝 Contribuir a proyectos open source
 
 Proyectos personales:
+
 Completar sistema de gestión con Spring Boot
 
 Crear API completa con Python
