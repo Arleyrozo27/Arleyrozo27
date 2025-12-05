@@ -94,8 +94,8 @@ src/
 
 ````
 
-📊 Proyecto 2: API con Python y PostgreSQL
-Estado: Completado | Tecnologías: Python, PostgreSQL, FastAPI
+###**📊 Proyecto 2: API con Python y PostgreSQL
+*Estado: Completado | Tecnologías: Python, PostgreSQL, FastAPI
 
 python
 ````
@@ -132,10 +132,10 @@ async def create_item(item: Item):
     return {"message": "Item creado", "item": item}
 ````
 
-🌐 Proyecto 3: Portafolio Web Responsive
-Estado: Completado | Tecnologías: HTML, CSS, JavaScript
+###**🌐 Proyecto 3: Portafolio Web Responsive
+*Estado: Completado | Tecnologías: HTML, CSS, JavaScript
 
-html
+####html
 ```
 <!-- Ejemplo de código - index.html -->
 <!DOCTYPE html>
@@ -163,7 +163,7 @@ html
 </html>
 ```
 
-css
+####css
 
 ```
 /* Ejemplo de código - styles.css */
@@ -189,87 +189,50 @@ header {
 
 ```
 
-🛠️ Stack Tecnológico (Campuslands)
+##**🛠️ Stack Tecnológico (Campuslands)
 
-💻 Backend:
+###**💻 Backend:
 
-Java - Programación orientada a objetos
+*Java - Programación orientada a objetos
 
-Spring Boot - Framework para aplicaciones Java
+*Spring Boot - Framework para aplicaciones Java
 
-Python - Desarrollo rápido de aplicaciones
+*Python - Desarrollo rápido de aplicaciones
 
-🌐 Frontend:
+###**🌐 Frontend:
 
-HTML5 - Estructura web
+*HTML5 - Estructura web
 
-CSS3 - Estilos y diseño responsive
+*CSS3 - Estilos y diseño responsive
 
-JavaScript - Interactividad en el navegador
+*JavaScript - Interactividad en el navegador
 
-🗄️ Bases de Datos:
+###**🗄️ Bases de Datos:
 
-MySQL - Sistema de gestión de bases de datos relacional
+*MySQL - Sistema de gestión de bases de datos relacional
 
-PostgreSQL - Base de datos relacional avanzada
+*PostgreSQL - Base de datos relacional avanzada
 
-🔧 Herramientas:
+###**🔧 Herramientas:
 
-Git - Control de versiones
+*Git - Control de versiones
 
-GitHub - Repositorio y colaboración
+*GitHub - Repositorio y colaboración
 
-Postman - Pruebas de APIs
+*Postman - Pruebas de APIs
 
 
-📊 Estadísticas GitHub
+###**📊 Estadísticas GitHub
 
 https://github-readme-stats.vercel.app/api?username=Arleyrozo27&show_icons=true&theme=radical&hide_border=true
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=Arleyrozo27&layout=compact&theme=radical&hide_border=true
 
-📋 Conventional Commits
 
-Formato que uso en todos mis proyectos:
+###**🏗️ Arquitectura de Proyectos
 
+*Estructura para proyecto Spring Boot:
 
-<tipo>: <descripción>
-
-[body opcional]
-
-[footer opcional]
-Tipos de commits que utilizo:
-Tipo	Emoji	Descripción	Ejemplo
-feat	✨	Nueva característica	feat: ✨ agregar login de usuarios
-fix	🐛	Corrección de bug	fix: 🐛 corregir error en formulario
-docs	📚	Documentación	docs: 📚 actualizar README.md
-style	🎨	Formato/estilo	style: 🎨 mejorar diseño CSS
-refactor	♻️	Refactorización	refactor: ♻️ reorganizar código Java
-test	✅	Pruebas	test: ✅ agregar pruebas unitarias
-
-
-Ejemplos reales de mis commits:
-
-
-# Ejemplo 1: Nueva funcionalidad en Java
-git commit -m "feat: ✨ implementar CRUD de productos con Spring Boot"
-
-# Ejemplo 2: Corrección en JavaScript
-git commit -m "fix: 🐛 corregir validación de formulario en JavaScript"
-
-# Ejemplo 3: Documentación
-git commit -m "docs: 📚 agregar guía de instalación del proyecto"
-
-# Ejemplo 4: Mejora de CSS
-git commit -m "style: 🎨 hacer diseño responsive para móviles"
-
-# Ejemplo 5: Refactorización en Python
-git commit -m "refactor: ♻️ mejorar estructura de funciones en Python"
-
-
-🏗️ Arquitectura de Proyectos
-
-Estructura para proyecto Spring Boot:
 ````
 
 proyecto-spring-boot/
@@ -305,7 +268,7 @@ proyecto-spring-boot/
 
 ````
 
-Estructura para proyecto web (HTML/CSS/JS):
+*Estructura para proyecto web (HTML/CSS/JS):
 
 ````
 
@@ -334,7 +297,7 @@ proyecto-python/
 
 ````
 
-🌐 Despliegue en GitHub Pages
+###**🌐 Despliegue en GitHub Pages
 
 Configuración para proyecto web:
 
