@@ -302,34 +302,6 @@ proyecto-python/
 └── README.md
 
 ````
----
-
-## 👨‍💻 Autor
-
-Arley Gustavo Rozo Rodríguez
-
-## 📄 Licencia
-
-Información de licencia
-Documentación de API (si aplica):
-markdown
-
-## API Endpoints
-
-### GET /api/users
-Obtiene todos los usuarios
-
-### POST /api/users
-Crea un nuevo usuario
-
-### Ejemplo de request:
-```json
-{
-  "name": "Arley",
-  "email": "arley@example.com"
-}
-
-```
 
 ---
 
@@ -440,8 +412,10 @@ Documentación de proyectos
 
 ### 🤝 Contribuir a proyectos open source
 
+---
 
 <div align="center">
+    
 ⭐ ¡Gracias por visitar mi perfil!
 "El mejor momento para plantar un árbol fue hace veinte años. El segundo mejor momento es ahora."
 
