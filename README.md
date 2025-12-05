@@ -54,6 +54,10 @@ public class UserController {
                .body(userService.createUser(request));
     }
 }
+
+```
+-----
+
 Características:
 
 ✅ API REST con Spring Boot
@@ -125,6 +129,7 @@ async def create_item(item: Item):
 Estado: Completado | Tecnologías: HTML, CSS, JavaScript
 
 html
+```
 <!-- Ejemplo de código - index.html -->
 <!DOCTYPE html>
 <html lang="es">
@@ -149,7 +154,10 @@ html
     </section>
 </body>
 </html>
+```
+
 css
+```
 /* Ejemplo de código - styles.css */
 body {
     font-family: Arial, sans-serif;
@@ -170,8 +178,12 @@ header {
     margin: 1rem;
     border-radius: 5px;
 }
+```
+
 🛠️ Stack Tecnológico (Campuslands)
+
 💻 Backend:
+
 Java - Programación orientada a objetos
 
 Spring Boot - Framework para aplicaciones Java
@@ -179,6 +191,7 @@ Spring Boot - Framework para aplicaciones Java
 Python - Desarrollo rápido de aplicaciones
 
 🌐 Frontend:
+
 HTML5 - Estructura web
 
 CSS3 - Estilos y diseño responsive
@@ -186,23 +199,28 @@ CSS3 - Estilos y diseño responsive
 JavaScript - Interactividad en el navegador
 
 🗄️ Bases de Datos:
+
 MySQL - Sistema de gestión de bases de datos relacional
 
 PostgreSQL - Base de datos relacional avanzada
 
 🔧 Herramientas:
+
 Git - Control de versiones
 
 GitHub - Repositorio y colaboración
 
 Postman - Pruebas de APIs
 
+
 📊 Estadísticas GitHub
+
 https://github-readme-stats.vercel.app/api?username=Arleyrozo27&show_icons=true&theme=radical&hide_border=true
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=Arleyrozo27&layout=compact&theme=radical&hide_border=true
 
 📋 Conventional Commits
+
 Formato que uso en todos mis proyectos:
 
 
@@ -371,6 +389,7 @@ Crea un nuevo usuario
   "email": "arley@example.com"
 }
 text
+```
 
 ---
 
@@ -390,6 +409,8 @@ Subir cambios:
 bash
 git push origin feature/nueva-funcionalidad
 Crear Pull Request en GitHub
+
+```
 
 Buenas prácticas que aplico:
 ✅ Commits pequeños y frecuentes
@@ -499,6 +520,7 @@ CSS - Diseño responsive:
 
 HTML - Estructura semántica:
 
+```
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -528,6 +550,8 @@ HTML - Estructura semántica:
     </footer>
 </body>
 </html>
+
+```
 
 🎓 Formación en Campuslands
 Tecnologías aprendidas:
@@ -565,7 +589,7 @@ Información de contacto:
 
 💼 LinkedIn: https://www.linkedin.com/in/estudiante-backen-arley-rozo
 
-🌐 Portafolio: https://ubiquitous-crisp-df43ca.netlify.app
+🌐 Portafolio: [(https://portafolio-arley-rozo.onrender.com)]
 
 🐙 GitHub: https://github.com/Arleyrozo27
 
