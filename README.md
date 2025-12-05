@@ -236,15 +236,7 @@ header {
 *Postman - Pruebas de APIs*
 
 ---
-### **📊 Estadísticas GitHub**
 
-
-![Stats](https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=Arleyrozo27&count_private=true&show_icons=true&theme=dark)
-
-![Lenguajes](https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=Arleyrozo27&hide=html,css&layout=compact&theme=dark)
-
-
----
 ### **🏗️ Arquitectura de Proyectos**
 
 *Estructura para proyecto Spring Boot:*
