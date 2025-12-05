@@ -165,7 +165,7 @@ async def create_item(item: Item):
 </html>
 ```
 
-#### **css**
+#### **CSS**
 
 ```
 /* Ejemplo de código - styles.css */
@@ -190,6 +190,7 @@ header {
 }
 
 ```
+---
 
 ## **🛠️ Stack Tecnológico (Campuslands)**
 
@@ -201,6 +202,7 @@ header {
 
 *Python - Desarrollo rápido de aplicaciones*
 
+---
 ### **🌐 Frontend:**
 
 *HTML5 - Estructura web*
@@ -209,12 +211,14 @@ header {
 
 *JavaScript - Interactividad en el navegador*
 
+---
 ### **🗄️ Bases de Datos:**
 
 *MySQL - Sistema de gestión de bases de datos relacional*
 
 *PostgreSQL - Base de datos relacional avanzada*
 
+---
 ### **🔧 Herramientas:**
 
 *Git - Control de versiones*
@@ -223,14 +227,14 @@ header {
 
 *Postman - Pruebas de APIs*
 
-
+---
 ### **📊 Estadísticas GitHub**
 
 https://github-readme-stats.vercel.app/api?username=Arleyrozo27&show_icons=true&theme=radical&hide_border=true
 
 https://github-readme-stats.vercel.app/api/top-langs/?username=Arleyrozo27&layout=compact&theme=radical&hide_border=true
 
-
+---
 ### **🏗️ Arquitectura de Proyectos**
 
 *Estructura para proyecto Spring Boot:*
@@ -298,61 +302,7 @@ proyecto-python/
 └── README.md
 
 ````
-
-### **🌐 Despliegue en GitHub Pages**
-
-Configuración para proyecto web:
-
-Crear repositorio en GitHub
-
-Subir archivos HTML, CSS y JavaScript
-
-Ir a Settings → Pages
-
-Seleccionar rama main como source
-
-Guardar y esperar el despliegue
-
-Mi portafolio desplegado:
-
-URL: https://arleyrozo27.github.io
-
-Tecnologías: HTML5, CSS3, JavaScript
-
-Responsive: Sí, funciona en móviles y desktop
-
-Archivo de configuración para GitHub Pages:
-
-# En la rama main o gh-pages
-# Estructura básica:
-# - index.html (página principal)
-# - styles.css (estilos)
-# - script.js (JavaScript)
-# - assets/ (imágenes, fuentes, etc.)
-📚 Documentación de Proyectos
-
-README.md de cada proyecto incluye:
-
-# Nombre del Proyecto
-
-## 📋 Descripción
-Breve descripción del proyecto y su propósito.
-
-## 🚀 Tecnologías Utilizadas
-- Java / Spring Boot
-- MySQL / PostgreSQL
-- HTML / CSS / JavaScript
-- Python
-
-## 🛠️ Instalación
-
-1. Clonar el repositorio
-2. Configurar base de datos
-3. Ejecutar aplicación
-
-## 📁 Estructura del Proyecto
-
-Explicación de carpetas y archivos
+---
 
 ## 👨‍💻 Autor
 
@@ -378,7 +328,7 @@ Crea un nuevo usuario
   "name": "Arley",
   "email": "arley@example.com"
 }
-text
+
 ```
 
 ---
@@ -403,6 +353,8 @@ Crear Pull Request en GitHub
 
 ```
 
+---
+
 Buenas prácticas que aplico:
 ✅ Commits pequeños y frecuentes
 
@@ -414,9 +366,12 @@ Buenas prácticas que aplico:
 
 ✅ Mantener main branch estable
 
+---
+
 📝 Ejemplos de Código por Tecnología
 
 Java - Clase de modelo:
+
 ````
 
 // User.java
@@ -439,8 +394,10 @@ public class User {
 }
 
 ````
+---
 
 Python - Conexión a PostgreSQL:
+
 ````
 # database.py
 import psycopg2
@@ -462,6 +419,7 @@ class Database:
         return cursor.fetchall()
 
 ````
+---
 
 JavaScript - Validación de formulario:
 
@@ -484,6 +442,8 @@ function validateForm() {
     return true;
 }
 ````
+---
+
 CSS - Diseño responsive:
 
 ````
@@ -512,6 +472,7 @@ CSS - Diseño responsive:
     }
 }
 ````
+---
 HTML - Estructura semántica:
 
 ```
@@ -546,6 +507,7 @@ HTML - Estructura semántica:
 </html>
 
 ```
+---
 
 🎓 Formación en Campuslands
 Tecnologías aprendidas:
@@ -578,6 +540,8 @@ Control de versiones con Git
 Code review entre compañeros
 
 Documentación de proyectos
+
+---
 
 📫 Contacto
 Información de contacto:
