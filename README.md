@@ -1,4 +1,5 @@
 # 👨‍💻 **Arley Gustavo Rozo Rodríguez**  
+
 ### **🚀 Futuro Desarrollador de Software | Campuslands 2025**
 
 [![GitHub Followers](https://img.shields.io/github/followers/Arleyrozo27?style=social)](https://github.com/Arleyrozo27)
@@ -340,9 +341,9 @@ Buenas prácticas que aplico:
 
 ---
 
-## 🎓 Formación en Campuslands
+## **🎓 Formación en Campuslands**
 
-### Tecnologías aprendidas:
+### *Tecnologías aprendidas:*
 
 #### Java: Fundamentos, POO, Spring Boot
 
@@ -356,7 +357,7 @@ Buenas prácticas que aplico:
 
 ---
 
-#### Proyectos desarrollados:
+### *Proyectos desarrollados:*
 
 #### Sistema de gestión con Spring Boot y MySQL
 
@@ -368,7 +369,7 @@ Buenas prácticas que aplico:
 
 ---
 
-## Metodologías aplicadas:
+### *Metodologías aplicadas:*
 
 Desarrollo ágil con Scrum
 
@@ -380,7 +381,7 @@ Documentación de proyectos
 
 ---
 
-## 📫 Contacto
+## **📫 Contacto**
 ### Información de contacto:
 
 
@@ -394,7 +395,7 @@ Documentación de proyectos
 
 ---
 
-## Disponibilidad:
+## **Disponibilidad:**
 
 ### 🔍 Buscando: Práctica profesional o puesto junior
 
@@ -406,7 +407,7 @@ Documentación de proyectos
 
 ---
 
-## Metas profesionales:
+## **Metas profesionales:**
 
 ### 👨‍💻 Conseguir primera experiencia como desarrollador
 
