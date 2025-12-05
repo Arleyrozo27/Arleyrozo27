@@ -368,170 +368,31 @@ Buenas prácticas que aplico:
 
 ---
 
-📝 Ejemplos de Código por Tecnología
+## 🎓 Formación en Campuslands
+### Tecnologías aprendidas:
 
-Java - Clase de modelo:
+#### Java: Fundamentos, POO, Spring Boot
 
-````
+#### Python: Sintaxis, estructuras de datos, APIs
 
-// User.java
-@Entity
-@Table(name = "users")
-public class User {
-    
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
-    private Long id;
-    
-    @Column(nullable = false)
-    private String name;
-    
-    @Column(unique = true, nullable = false)
-    private String email;
-    
-    // Getters y Setters
-    // Constructor
-}
+#### Frontend: HTML5, CSS3, JavaScript básico
 
-````
+#### Bases de datos: MySQL, PostgreSQL, consultas SQL
+
+#### Git y GitHub: Control de versiones y colaboración
+
+#### Proyectos desarrollados:
+#### Sistema de gestión con Spring Boot y MySQL
+
+#### API REST con Python y PostgreSQL
+
+#### Portafolio web responsive con HTML/CSS/JS
+
+#### Aplicaciones web con Java EE
+
 ---
 
-Python - Conexión a PostgreSQL:
-
-````
-# database.py
-import psycopg2
-from psycopg2 import Error
-
-class Database:
-    def __init__(self):
-        self.connection = psycopg2.connect(
-            user="usuario",
-            password="contraseña",
-            host="localhost",
-            port="5432",
-            database="basedatos"
-        )
-    
-    def get_users(self):
-        cursor = self.connection.cursor()
-        cursor.execute("SELECT * FROM users")
-        return cursor.fetchall()
-
-````
----
-
-JavaScript - Validación de formulario:
-
-````
-// form-validation.js
-function validateForm() {
-    const email = document.getElementById('email').value;
-    const password = document.getElementById('password').value;
-    
-    if (!email || !password) {
-        alert('Por favor complete todos los campos');
-        return false;
-    }
-    
-    if (!email.includes('@')) {
-        alert('Email no válido');
-        return false;
-    }
-    
-    return true;
-}
-````
----
-
-CSS - Diseño responsive:
-
-````
-/* responsive.css */
-.container {
-    width: 100%;
-    padding: 20px;
-}
-
-@media (min-width: 768px) {
-    .container {
-        width: 750px;
-        margin: 0 auto;
-    }
-}
-
-@media (min-width: 992px) {
-    .container {
-        width: 970px;
-    }
-}
-
-@media (min-width: 1200px) {
-    .container {
-        width: 1170px;
-    }
-}
-````
----
-HTML - Estructura semántica:
-
-```
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mi Proyecto</title>
-</head>
-<body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="#inicio">Inicio</a></li>
-                <li><a href="#proyectos">Proyectos</a></li>
-            </ul>
-        </nav>
-    </header>
-    
-    <main>
-        <section id="inicio">
-            <h1>Bienvenido</h1>
-            <p>Descripción del proyecto</p>
-        </section>
-    </main>
-    
-    <footer>
-        <p>&copy; 2024 Arley Rozo</p>
-    </footer>
-</body>
-</html>
-
-```
----
-
-🎓 Formación en Campuslands
-Tecnologías aprendidas:
-Java: Fundamentos, POO, Spring Boot
-
-Python: Sintaxis, estructuras de datos, APIs
-
-Frontend: HTML5, CSS3, JavaScript básico
-
-Bases de datos: MySQL, PostgreSQL, consultas SQL
-
-Git y GitHub: Control de versiones y colaboración
-
-Proyectos desarrollados:
-Sistema de gestión con Spring Boot y MySQL
-
-API REST con Python y PostgreSQL
-
-Portafolio web responsive con HTML/CSS/JS
-
-Aplicaciones web con Java EE
-
-Metodologías aplicadas:
-
+## Metodologías aplicadas:
 
 Desarrollo ágil con Scrum
 
@@ -543,48 +404,42 @@ Documentación de proyectos
 
 ---
 
-📫 Contacto
-Información de contacto:
+## 📫 Contacto
+### Información de contacto:
 
 
-📧 Email: arleyrodriguez280@gmail.com
+### 📧 Email: arleyrodriguez280@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/estudiante-backen-arley-rozo
+### 💼 LinkedIn: https://www.linkedin.com/in/estudiante-backen-arley-rozo
 
-🌐 Portafolio: [(https://portafolio-arley-rozo.onrender.com)]
+### 🌐 Portafolio: [(https://portafolio-arley-rozo.onrender.com)]
 
-🐙 GitHub: https://github.com/Arleyrozo27
+### 🐙 GitHub: https://github.com/Arleyrozo27
 
-Disponibilidad:
+---
 
-🔍 Buscando: Práctica profesional o puesto junior
+## Disponibilidad:
 
-📍 Modalidad: Presencial o remoto
+### 🔍 Buscando: Práctica profesional o puesto junior
 
-⏰ Tiempo: Tiempo completo
+### 📍 Modalidad: Presencial o remoto
 
-🎯 Objetivos 2025
+### ⏰ Tiempo: Tiempo completo
 
-Metas profesionales:
+### 🎯 Objetivos 2025
 
+---
 
-👨‍💻 Conseguir primera experiencia como desarrollador
+## Metas profesionales:
 
-📚 Dominar Spring Boot y desarrollo backend
+### 👨‍💻 Conseguir primera experiencia como desarrollador
 
-🌐 Aprender más sobre frontend moderno
+### 📚 Dominar Spring Boot y desarrollo backend
 
-🤝 Contribuir a proyectos open source
+### 🌐 Aprender más sobre frontend moderno
 
-Proyectos personales:
+### 🤝 Contribuir a proyectos open source
 
-Completar sistema de gestión con Spring Boot
-
-Crear API completa con Python
-
-Mejorar portafolio con más funcionalidades
-
-Aprender React.js (próximo paso)
 
 <div align="center">
 ⭐ ¡Gracias por visitar mi perfil!
@@ -592,4 +447,5 @@ Aprender React.js (próximo paso)
 
 Siempre aprendiendo, siempre mejorando 🚀
 
-</div> ```
+</div> 
+
