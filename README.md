@@ -436,10 +436,10 @@ Documentación de proyectos
 
 <div align="center">
     
-⭐ ¡Gracias por visitar mi perfil!
+## **⭐ ¡Gracias por visitar mi perfil!
 "El mejor momento para plantar un árbol fue hace veinte años. El segundo mejor momento es ahora."
 
-Siempre aprendiendo, siempre mejorando 🚀
+Siempre aprendiendo, siempre mejorando 🚀**
 
 </div> 
 
