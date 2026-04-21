@@ -1,7 +1,7 @@
 # 👨‍💻 Arley Gustavo Rozo Rodríguez  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer+in+progress;Spring+Boot+%7C+FastAPI+%7C+SQL;Construyendo+APIs+escalables&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer+in+progress;Spring+Boot+%7C+Java+%7C+SQL;Construyendo+APIs+escalables&center=true&width=500&height=45">
 </p>
 
 <p align="center">
@@ -15,10 +15,10 @@
 
 ## 🚀 Sobre mí  
 
-💡 Desarrollador enfocado en **backend y APIs REST**  
+💡 Enfocado en desarrollo **backend y APIs REST**  
 📚 En formación en **Campuslands (2025)**  
-⚙️ Aplico **arquitectura limpia, buenas prácticas y Git profesional**  
-🎯 En búsqueda de **mi primera oportunidad como desarrollador junior**  
+⚙️ Trabajo con **arquitectura limpia y buenas prácticas**  
+🎯 Buscando mi primera oportunidad como **desarrollador junior**  
 
 ---
 
@@ -26,7 +26,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,js,html,css,mysql,postgres,git,github,postman"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,js,html,css,mysql,postgres,git,github"/>
 
 </p>
 
@@ -37,11 +37,11 @@
 🔹 **Sistema de Gestión - Spring Boot**  
 ✔ API REST • Arquitectura limpia • MySQL • Validaciones  
 
-🔹 **API REST - FastAPI**  
-✔ CRUD completo • PostgreSQL • Estructura modular  
+🔹 **API con Python**  
+✔ CRUD básico • PostgreSQL  
 
 🔹 **Portafolio Web**  
-✔ Responsive • HTML + CSS + JS  
+✔ Responsive • HTML + CSS + JavaScript  
 
 ---
 
