@@ -65,14 +65,32 @@ Soy una persona curiosa, perseverante y comprometida con el aprendizaje continuo
 
 ## 📌 Proyectos destacados
 
-🔹 **Sistema de Gestión — Spring Boot**<br>
-✅ API REST • Arquitectura limpia • MySQL • Validaciones
+🔹 **[Portafolio-Oficial-Mejorado](https://github.com/Arleyrozo27/Portafolio-Oficial-Mejorado)**<br>
+✅ Portafolio web moderno y responsive • HTML • CSS • JavaScript • Diseño interactivo y animaciones
 
-🔹 **API con Python**<br>
-✅ CRUD básico • PostgreSQL
+🔹 **[happy-feet-veterinaria](https://github.com/Arleyrozo27/happy-feet-veterinaria)**<br>
+✅ Sistema de gestión para veterinaria • Java
 
-🔹 **Portafolio Web**<br>
-✅ Responsive • HTML + CSS + JavaScript
+🔹 **[Universidad-Spring_Boot](https://github.com/Arleyrozo27/Universidad-Spring_Boot)**<br>
+✅ Backend con Java y Spring Boot
+
+🔹 **[Jwt-Spring](https://github.com/Arleyrozo27/Jwt-Spring)**<br>
+✅ Java • Spring • Autenticación con JWT
+
+🔹 **[Lumen-Store](https://github.com/Arleyrozo27/Lumen-Store)**<br>
+✅ Página de ventas de ropa en línea • HTML • CSS
+
+🔹 **[Proyecto-Banco-js](https://github.com/Arleyrozo27/Proyecto-Banco-js)**<br>
+✅ Proyecto en equipo • HTML • JavaScript
+
+### 📁 Otros proyectos
+
+- 🛍️ **[NeyL--Store](https://github.com/Arleyrozo27/NeyL--Store)** — Catálogo de ventas para una tienda de ropa (CSS)
+- 🤖 **[Chat-Bot](https://github.com/Arleyrozo27/Chat-Bot)** — Chatbot en JavaScript
+- 🗄️ **[Coworkin-SQL-Arley_Rozo](https://github.com/Arleyrozo27/Coworkin-SQL-Arley_Rozo)** — Modelado y consultas SQL
+- 🎬 **[Pelicula-Mental](https://github.com/Arleyrozo27/Pelicula-Mental)** — Proyecto en JavaScript
+
+👉 [Ver todos mis repositorios](https://github.com/Arleyrozo27?tab=repositories)
 
 ---
 
@@ -125,9 +143,9 @@ Soy una persona curiosa, perseverante y comprometida con el aprendizaje continuo
 
 Estoy abierto a oportunidades laborales, colaboraciones y nuevos proyectos que me permitan seguir creciendo como desarrollador.
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/estudiante-backen-arley-rozo/
-- ✉️ **Correo:** arleyrodriguez280@gmail.com
-- 💼 **Portafolio** https://portafolio-personal-tdfl.onrender.com/
+- 💼 **LinkedIn:** [Arleyrozo](https://www.linkedin.com/in/estudiante-backen-arley-rozo/)
+- ✉️ **Correo:** rozorodriguezarleygustavo@gmail.com
+- 💼 **Portafolio** https://portafolio-personal-tdfl.onrender.com
 
 <div align="center">
 
@@ -135,4 +153,4 @@ Estoy abierto a oportunidades laborales, colaboraciones y nuevos proyectos que m
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0759B8,100:00A6FF&height=120&section=footer" alt="Footer" width="100%" />
 
-</div>)
+</div>
