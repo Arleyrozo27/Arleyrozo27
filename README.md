@@ -1,93 +1,138 @@
-# 👨‍💻 Arley Gustavo Rozo Rodríguez  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0759B8,100:00A6FF&height=140&section=header&text=Arley%20Rozo&fontColor=ffffff&fontSize=48&fontAlignY=40" alt="Header" width="100%" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer+in+progress;Spring+Boot+%7C+Java+%7C+SQL;Construyendo+APIs+escalables&center=true&width=500&height=45">
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00A6FF&center=true&vCenter=true&width=700&lines=Junior+Software+Developer;Backend+%7C+Frontend+%7C+Full+Stack;APIs+REST+%7C+Bases+de+Datos+%7C+IA;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+
+**Desarrollador de Software Junior** · Colombia 🇨🇴
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mí
+
+Soy **Arley Gustavo Rozo Rodríguez**, desarrollador de software junior enfocado en construir soluciones digitales eficientes, modernas y escalables.
+
+Tengo formación en Desarrollo de Software y Sistemas. Actualmente fortalezco mis conocimientos en **desarrollo backend y frontend, bases de datos, creación de APIs e inteligencia artificial**.
+
+Soy una persona curiosa, perseverante y comprometida con el aprendizaje continuo. Busco participar en proyectos reales y seguir creciendo como desarrollador.
+
+> 💡 No se trata de saberlo todo, sino de nunca dejar de aprender.
+
+---
+
+## 🎓 Formación
+
+- 🎓 **Tecnólogo en Desarrollo de Software** — Campuslands
+- 🎓 **Técnico en Sistemas** — Inprosistemas
+
+---
+
+## 🧰 Stack tecnológico
+
+### Lenguajes
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,js,php" alt="Lenguajes" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Arleyrozo27">
-    <img src="https://img.shields.io/github/followers/Arleyrozo27?style=social">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Arleyrozo27&label=Visitas&color=blue&style=flat">
+### Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css" alt="Frontend" />
 </p>
 
----
+### Backend y frameworks
 
-## 🚀 Sobre mí  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,laravel" alt="Backend y frameworks" />
+</p>
 
-💡 Enfocado en desarrollo **backend y APIs REST**  
-📚 En formación en **Campuslands (2025)**  
-⚙️ Trabajo con **arquitectura limpia y buenas prácticas**  
-🎯 Buscando mi primera oportunidad como **desarrollador junior**  
+### Bases de datos
 
----
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Bases de datos" />
+</p>
 
-## 🛠️ Tech Stack  
+### Herramientas
 
-### 💻 Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🌐 Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄️ Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🔧 Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 📌 Proyectos Destacados  
-
-🔹 **Sistema de Gestión - Spring Boot**  
-✔ API REST • Arquitectura limpia • MySQL • Validaciones  
-
-🔹 **API con Python**  
-✔ CRUD básico • PostgreSQL  
-
-🔹 **Portafolio Web**  
-✔ Responsive • HTML + CSS + JavaScript  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arleyrozo27&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arleyrozo27&theme=tokyonight&hide_border=true"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,postman" alt="Herramientas" />
 </p>
 
 ---
 
-## 🎯 Objetivo  
+## 📌 Proyectos destacados
 
-Convertirme en un desarrollador backend sólido, aportando en proyectos reales y creciendo dentro de un equipo profesional.
+🔹 **Sistema de Gestión — Spring Boot**<br>
+✅ API REST • Arquitectura limpia • MySQL • Validaciones
 
----
+🔹 **API con Python**<br>
+✅ CRUD básico • PostgreSQL
 
-## 📫 Contacto  
-
-<p align="center">
-  <a href="mailto:arleyrodriguez280@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/estudiante-backen-arley-rozo">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://portafolio-arley-rozo.onrender.com">
-    <img src="https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+🔹 **Portafolio Web**<br>
+✅ Responsive • HTML + CSS + JavaScript
 
 ---
 
-<p align="center">
-  ⭐ <strong>Construyendo mi camino como desarrollador</strong> 🚀
-</p>
+## ⚙️ Enfoque de trabajo
+
+- 🌐 Aplicaciones web modernas y responsive
+- ⚙️ APIs REST y servicios backend
+- 🗄️ Aplicaciones conectadas a bases de datos
+- 🤖 Integración de inteligencia artificial en proyectos
+- 🔗 Integraciones entre servicios y plataformas
+
+---
+
+## 📚 En aprendizaje
+
+| Área | Enfoque |
+|------|---------|
+| ☕ **Java** | POO, colecciones, excepciones, JPA, Spring Boot y pruebas |
+| 🐍 **Python** | POO, estructuras de datos, FastAPI, automatización e IA |
+| 💛 **JavaScript** | Async/Await, promesas, DOM, Fetch |
+| 🐘 **PHP** | Laravel, Eloquent, middleware, autenticación y APIs |
+| 🗄️ **SQL** | JOIN, subconsultas, procedimientos, triggers y optimización |
+
+### 🚀 Próximos pasos
+
+- **Frontend:** React y TypeScript
+- **Backend:** Node.js y microservicios
+- **DevOps:** Docker, Linux y CI/CD
+- **Cloud:** AWS
+- **IA:** Machine Learning e integración de modelos
+- **Calidad:** testing, patrones de diseño y seguridad aplicada al desarrollo
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arleyrozo27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arleyrozo27&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Lenguajes más usados" />
+
+<img width="90%" src="https://streak-stats.demolab.com?user=Arleyrozo27&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+
+</div>
+
+---
+
+## 🤝 Conectemos
+
+Estoy abierto a oportunidades laborales, colaboraciones y nuevos proyectos que me permitan seguir creciendo como desarrollador.
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/estudiante-backen-arley-rozo/
+- ✉️ **Correo:** arleyrodriguez280@gmail.com
+- 💼 **Portafolio** https://portafolio-personal-tdfl.onrender.com/
+
+<div align="center">
+
+### ⚡ LEARN • CODE • BUILD • REPEAT ⚡
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0759B8,100:00A6FF&height=120&section=footer" alt="Footer" width="100%" />
+
+</div>)
